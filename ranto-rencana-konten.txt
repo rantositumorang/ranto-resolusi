@@ -4,6 +4,7 @@ javascript
   *ES 6
   *FRAMEWORK JAVASCRIPT
   - vue
+  -react
  Struktur data dasa
 php framework
   -laravel
