@@ -3,8 +3,9 @@ RENCANA KONTEN RANTO
 javascript
   *ES 6
   *FRAMEWORK JAVASCRIPT
-  - Angular
-  - React
+  - vue
+  -react
+ Struktur data dasa
 php framework
   -laravel
 interview
