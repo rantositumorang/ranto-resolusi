@@ -1,6 +1,8 @@
 RENCANA KONTEN RANTO
 
 javascript
+  *ES 6
+  *FRAMEWORK JAVASCRIPT
 php framework
 interview
 vlog
